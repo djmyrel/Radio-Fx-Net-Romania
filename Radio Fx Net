@@ -1,1 +1,3 @@
-#EXTM3Uhttps://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTM3U  
+#EXTINF:-1,Radio Fx Net 
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
