@@ -1,3 +1,3 @@
 # Radio-Fx-Net-Romania
-![Sigla](Radiofxnet.png)
+![Sigla](Radiofxnet.jpeg)
 Number One Online Station 
